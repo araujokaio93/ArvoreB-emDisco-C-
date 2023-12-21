@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1700605960 source:c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\charserial.cpp
+	"charSerial.h"
+	<iostream>
+
+1700606096 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\charserial.h
+	<string>
+	"serializable.h"
+
+1700606291 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\serializable.h
+	<string>
+
+1700606002 source:c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\header.cpp
+	"header.h"
+
+1700606160 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\header.h
+	"serializable.h"
+
+1700605885 source:c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1700606333 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+
+1700606202 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1700606382 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\typedfile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1700606244 c:\users\pichau\desktop\from hell\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\record.h
+	<string>
+	"serializable.h"
+
+1700605960 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\charserial.cpp
+	"charSerial.h"
+	<iostream>
+
+1702329679 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\charserial.h
+	<string>
+	"serializable.h"
+
+1702328988 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\serializable.h
+	<string>
+
+1700606002 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\header.cpp
+	"header.h"
+
+1702317537 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\header.h
+	"serializable.h"
+
+1700605885 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1700606333 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+
+1702318061 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1700606382 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\typedfile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1702318358 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa\record.h
+	<string>
+	"serializable.h"
+
+1700605960 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\charserial.cpp
+	"charSerial.h"
+	<iostream>
+
+1702330076 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\charserial.h
+	<string>
+	"serializable.h"
+
+1702328988 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\serializable.h
+	<string>
+
+1700606002 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\header.cpp
+	"header.h"
+
+1702317537 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\header.h
+	"serializable.h"
+
+1700605885 source:c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1700606333 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+
+1702318061 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1700606382 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\typedfile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1702318358 c:\users\fefer\desktop\nova pasta\origial\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\record.h
+	<string>
+	"serializable.h"
+
+1700606002 source:c:\users\andre\downloads\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\header.cpp
+	"header.h"
+
+1702317537 c:\users\andre\downloads\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\header.h
+	"serializable.h"
+
+1702328988 c:\users\andre\downloads\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\serializable.h
+	<string>
+
+1702420574 source:c:\users\andre\downloads\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\charserial.cpp
+	"charSerial.h"
+	<iostream>
+
+1702330076 c:\users\andre\downloads\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\arvoreb-kaiolazarosilvadearaujo-andrediasneto-felipesoaresbarbosa - felipe\charserial.h
+	<string>
+	"serializable.h"
+
